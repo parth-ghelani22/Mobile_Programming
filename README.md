@@ -1,5 +1,5 @@
 # Mobile_Programming Programs Definations
-Create the first application using Android Studio and Display HelloWorld.
-Create a UI design using a linear layout for the login screen, ensuring that you incorporate the MDC component as described in the previous session.
-Create a calculator using basic mathematical functions in Android Studio
-Create an Android project that demonstrates the use of Activity Lifecycle components. Please use Toast to display various events of the Activity Lifecycle.
+1.Create the first application using Android Studio and Display HelloWorld.
+2.Create a UI design using a linear layout for the login screen, ensuring that you incorporate the MDC component as described in the previous session.
+3.Create a calculator using basic mathematical functions in Android Studio
+4.Create an Android project that demonstrates the use of Activity Lifecycle components. Please use Toast to display various events of the Activity Lifecycle.
