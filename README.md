@@ -4,3 +4,5 @@
 3.Create a calculator using basic mathematical functions in Android Studio
 4.Create an Android project that demonstrates the use of Activity Lifecycle components. Please use Toast to display various events of the Activity Lifecycle.
 5.Create an Android project that demonstrates the use of Activity Lifecycle components. Please use Toast to display various events of the Activity Lifecycle.
+6.Create a Login Screen with simple validation to present the use of Explicit Intent in Android.
+7.Create a list of any random object using ArrayAdapter in Android.
